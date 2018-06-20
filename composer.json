@@ -1,5 +1,5 @@
 {
-    "name": "aura/filter",
+    "name": "knoxzin1/filter",
     "type": "library",
     "description": "Filters to validate and sanitize objects and arrays.",
     "keywords": [
